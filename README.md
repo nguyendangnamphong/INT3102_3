@@ -1,7 +1,14 @@
-Numerical Methods Project
-Dự án này triển khai các phương pháp số để giải quyết cả bài toán lý thuyết và thực tế. Chương trình chính (MainProgram.java) cung cấp giao diện dòng lệnh cho phép người dùng chọn giữa các loại bài toán và nhập dữ liệu để giải.
-Phần 1: Bài Toán Lý Thuyết
-Phần này bao gồm 4 loại bài toán lý thuyết được hỗ trợ trong dự án:
+**INT3102_3**
+Dự án này triển khai các phương pháp số để giải quyết cả bài toán lý thuyết và thực tế. Chương trình chính (MainProgram.java) cung cấp giao diện dòng lệnh cho phép người dùng chọn giữa các loại bài toán và nhập dữ liệu để giải.  
+Có 2 loại bài toán:  
+![image](https://github.com/user-attachments/assets/6b59aeb8-1c37-4f25-a2ab-22a9344d9582)   
+
+
+*Phần 1: Bài Toán Lý Thuyết*
+Phần này bao gồm 4 loại bài toán lý thuyết được hỗ trợ trong dự án:    
+![image](https://github.com/user-attachments/assets/148461e2-f40b-4421-97d5-730717faca69)     
+
+
 1. Giải Phương Trình (Equation Solving)
 
 Mục đích: Tìm nghiệm (root) của một đa thức bằng phương pháp Chia Đôi (Bisection) hoặc Newton-Raphson.
@@ -63,7 +70,7 @@ Ví dụ:
 
 
 
-Phần 2: Bài Toán Thực Tế - Mô Phỏng Phân Phối Nhiệt
+*Phần 2: Bài Toán Thực Tế - Mô Phỏng Phân Phối Nhiệt*  
 
 Chủ đề: Mô phỏng sự phân phối nhiệt trên lưới 2D.
 Mục tiêu: Xác định cách nhiệt lan truyền trên một lưới vuông với các điều kiện biên cố định.
@@ -88,5 +95,7 @@ Kết quả là lưới nhiệt độ thể hiện trạng thái ổn định.
 
 Ví dụ:
 Đầu vào: n = 100, top = 100.0, bottom = 0.0, left = 50.0, right = 50.0, maxIterations = 1000, epsilon = 1e-6
-Đầu ra: Một lưới 100x100 với các giá trị nhiệt độ từ 0 đến 100, thể hiện sự khuếch tán nhiệt từ các biên.
+Đầu ra: Một lưới 100x100 với các giá trị nhiệt độ từ 0 đến 100, thể hiện sự khuếch tán nhiệt từ các biên.    
+![image](https://github.com/user-attachments/assets/1ae5351e-1a7a-4912-8f3b-bef6666cbd95)
+
 
