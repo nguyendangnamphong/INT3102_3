@@ -21,8 +21,8 @@ Sai số epsilon.
 
 Đầu ra: Nghiệm của đa thức và giá trị hàm tại nghiệm đó.      
 Ví dụ:     
-Đầu vào: Bậc = 2, Khoảng [a=0, b=1], Epsilon=0.001     
-Đầu ra: Nghiệm x = 0.500000 với f(x) = 0.000000     
+Đầu vào: Bậc = 2, Khoảng [a=0.5, b=1.5], Epsilon=0.001     
+Đầu ra: Nghiệm x = ..... với f(x) = .....   
 
 
 
